@@ -1,6 +1,8 @@
 # vue-mevn-stack-app
 This is a step by step MEVN stack tutorial, in this tutorial, we are going to learn how to create MEVN stack app. (MongoDB, Express.js, Vue.js, Node.js).
 
+### The code has been modified to work with [Educative's](https://www.educative.io/) platform.
+
 [Vue MEVN Stack Tutorial – Build Full Stack Vue.js CRUD App](https://www.positronx.io/vue-mevn-stack-tutorial-build-full-stack-vue-js-crud-app/)
 
 
